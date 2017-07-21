@@ -1,0 +1,108 @@
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.Form1.resources
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClient.exe
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClient.pdb
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.Form1.resources
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\obj\x86\Debug\TcpClient.exe
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpClient\obj\x86\Debug\TcpClient.pdb
+C:\Users\Anna\Downloads\TcpServer\TcpClient\obj\x86\Debug\TcpClient.exe
+C:\Users\Anna\Downloads\TcpServer\TcpClient\obj\x86\Debug\TcpClient.pdb
+C:\Users\Anna\Downloads\TcpServer\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Anna\Downloads\TcpServer\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Anna\Downloads\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.Form1.resources
+C:\Users\Anna\Downloads\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+C:\Users\Anna\Downloads\TcpServer\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+D:\1 sem\Dobble\TcpServer\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\1 sem\Dobble\TcpServer\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\obj\x86\Debug\TcpClientProgram.Form1.resources
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\bin\Debug\TcpClient.exe
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\bin\Debug\TcpClient.pdb
+D:\1 sem\Dobble\TcpServer - Kopia\TcpClient\obj\x86\Debug\TcpClientProgram.csprojResolveAssemblyReference.cache
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\1 sem\Dobble\GameDobble\TcpClient\bin\Debug\TcpClient.exe
+D:\1 sem\Dobble\GameDobble\TcpClient\bin\Debug\TcpClient.pdb
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csprojResolveAssemblyReference.cache
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\obj\x86\Debug\TcpClient.exe
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\obj\x86\Debug\TcpClient.pdb
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Form1.resources
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+C:\Users\Anna\Dysk Google\Anna_Tutaj\Studia Magisterskie\Programowanie systemów rozproszonych\Projekt\v04(listyGUI)\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Menu.resources
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Game.resources
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\bin\Debug\TcpClient.exe
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\bin\Debug\TcpClient.pdb
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csprojResolveAssemblyReference.cache
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Game.resources
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Menu.resources
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\bin\Debug\TcpClient.exe
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\bin\Debug\TcpClient.pdb
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\bin\Debug\TcpServer.exe
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\bin\Debug\TcpServer.pdb
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClientProgram.csprojResolveAssemblyReference.cache
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClientProgram.Game.resources
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClientProgram.GameView.resources
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClientProgram.Menu.resources
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\bin\Debug\TcpClient.exe
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\bin\Debug\TcpClient.pdb
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\bin\Debug\TcpServer.exe
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\bin\Debug\TcpServer.pdb
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.csprojResolveAssemblyReference.cache
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.View.Connect.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.View.CreateOrJoinRoom.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.Game2.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.View.Game.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.Menu.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+D:\3 sem\Done backup\GameDobble\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\3 sem\Done backup\GameDobble\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\3 sem\GameDobble\TcpClient\bin\Debug\TcpClient.exe
+D:\3 sem\GameDobble\TcpClient\bin\Debug\TcpClient.pdb
+D:\3 sem\GameDobble\TcpClient\bin\Debug\MetroFramework.dll
+D:\3 sem\GameDobble\TcpClient\bin\Debug\MetroFramework.Fonts.dll
+D:\3 sem\GameDobble\TcpClient\bin\Debug\TcpServer.exe
+D:\3 sem\GameDobble\TcpClient\bin\Debug\TcpServer.pdb
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csprojResolveAssemblyReference.cache
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.Connect.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.CreateOrJoinRoom.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.CreateRoom.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.OvalPictureBox.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.Game.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.JoinRoom.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.Menu.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.Properties.Resources.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.CreateAnAccount.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.MenuAfterLogin.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.View.Ranking.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClientProgram.csproj.GenerateResource.Cache
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\3 sem\GameDobble\TcpClient\obj\x86\Debug\TcpClient.pdb

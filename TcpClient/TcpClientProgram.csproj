@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{25519FBA-AC2D-44F2-8AC4-A634F70B5080}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TcpClientProgram</RootNamespace>
+    <AssemblyName>TcpClient</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\metroframework-modern-ui-master\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\metroframework-modern-ui-master\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\metroframework-modern-ui-master\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\ConnectController.cs" />
+    <Compile Include="Controller\CreateAnAccountController.cs" />
+    <Compile Include="Controller\Interfaces\IConnectView.cs" />
+    <Compile Include="Controller\Interfaces\ICreateAnAccountView.cs" />
+    <Compile Include="Controller\Interfaces\ICreateOrJoinRoomView.cs" />
+    <Compile Include="Controller\Interfaces\ICreateRoomView.cs" />
+    <Compile Include="Controller\Interfaces\IGameView.cs" />
+    <Compile Include="Controller\Interfaces\IJoinRoomView.cs" />
+    <Compile Include="Controller\Interfaces\IMenuAfterLoginView.cs" />
+    <Compile Include="Controller\Interfaces\IRankingView.cs" />
+    <Compile Include="Controller\MenuController.cs" />
+    <Compile Include="Controller\Interfaces\IMenuView.cs" />
+    <Compile Include="View\CreateRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CreateRoom.Designer.cs">
+      <DependentUpon>CreateRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Extras\ImageTransparency.cs" />
+    <Compile Include="View\Extras\OvalPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Model\Cards.cs" />
+    <Compile Include="View\Connect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Connect.Designer.cs">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CreateOrJoinRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CreateOrJoinRoom.Designer.cs">
+      <DependentUpon>CreateOrJoinRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Game.Designer.cs">
+      <DependentUpon>Game.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\JoinRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\JoinRoom.Designer.cs">
+      <DependentUpon>JoinRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\CreateAnAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CreateAnAccount.Designer.cs">
+      <DependentUpon>CreateAnAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MenuAfterLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MenuAfterLogin.Designer.cs">
+      <DependentUpon>MenuAfterLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Ranking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Ranking.Designer.cs">
+      <DependentUpon>Ranking.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Connect.resx">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CreateOrJoinRoom.resx">
+      <DependentUpon>CreateOrJoinRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CreateRoom.resx">
+      <DependentUpon>CreateRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Extras\OvalPictureBox.resx">
+      <DependentUpon>OvalPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Game.resx">
+      <DependentUpon>Game.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\JoinRoom.resx">
+      <DependentUpon>JoinRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\CreateAnAccount.resx">
+      <DependentUpon>CreateAnAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MenuAfterLogin.resx">
+      <DependentUpon>MenuAfterLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Ranking.resx">
+      <DependentUpon>Ranking.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TcpServer\TcpServer.csproj">
+      <Project>{1079F4F7-E5A1-498B-AB26-6BF3555876C0}</Project>
+      <Name>TcpServer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Logo.png" />
+    <None Include="bin\Debug\Images\Dabble_logo.png" />
+    <Content Include="Resources\Logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

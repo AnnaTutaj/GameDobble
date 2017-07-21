@@ -1,0 +1,8 @@
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClient.Form1.resources
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClient.Properties.Resources.resources
+C:\Users\Apple\documents\visual studio 2010\Projects\TcpServer\TcpClient\obj\x86\Debug\TcpClient.csproj.GenerateResource.Cache
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.Form1.resources
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.Properties.Resources.resources
+D:\1 sem\Dobble\GameDobble\TcpClient\obj\x86\Debug\TcpClient.csproj.GenerateResource.Cache

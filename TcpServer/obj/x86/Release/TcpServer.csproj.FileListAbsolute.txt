@@ -1,0 +1,10 @@
+D:\3 sem\GameDobble\TcpServer\bin\Release\TcpServer.exe.config
+D:\3 sem\GameDobble\TcpServer\bin\Release\TcpServer.exe
+D:\3 sem\GameDobble\TcpServer\bin\Release\TcpServer.pdb
+D:\3 sem\GameDobble\TcpServer\bin\Release\MetroFramework.dll
+D:\3 sem\GameDobble\TcpServer\bin\Release\MetroFramework.Fonts.dll
+D:\3 sem\GameDobble\TcpServer\obj\x86\Release\TcpServer.View.Form1.resources
+D:\3 sem\GameDobble\TcpServer\obj\x86\Release\TcpServer.Properties.Resources.resources
+D:\3 sem\GameDobble\TcpServer\obj\x86\Release\TcpServer.csproj.GenerateResource.Cache
+D:\3 sem\GameDobble\TcpServer\obj\x86\Release\TcpServer.exe
+D:\3 sem\GameDobble\TcpServer\obj\x86\Release\TcpServer.pdb

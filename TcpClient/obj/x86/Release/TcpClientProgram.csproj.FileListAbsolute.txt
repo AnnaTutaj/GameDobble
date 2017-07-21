@@ -1,0 +1,17 @@
+D:\3 sem\GameDobble\TcpClient\bin\Release\TcpClient.exe
+D:\3 sem\GameDobble\TcpClient\bin\Release\TcpClient.pdb
+D:\3 sem\GameDobble\TcpClient\bin\Release\MetroFramework.dll
+D:\3 sem\GameDobble\TcpClient\bin\Release\MetroFramework.Fonts.dll
+D:\3 sem\GameDobble\TcpClient\bin\Release\TcpServer.exe
+D:\3 sem\GameDobble\TcpClient\bin\Release\TcpServer.pdb
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.csprojResolveAssemblyReference.cache
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.View.Connect.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.View.CreateOrJoinRoom.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.View.OvalPictureBox.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.View.Game.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.View.Menu.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.Properties.Resources.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.View.CreateAnAccount.resources
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClientProgram.csproj.GenerateResource.Cache
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClient.exe
+D:\3 sem\GameDobble\TcpClient\obj\x86\Release\TcpClient.pdb

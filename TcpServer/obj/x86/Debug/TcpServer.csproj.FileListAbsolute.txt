@@ -1,0 +1,77 @@
+c:\users\apple\documents\visual studio 2010\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+c:\users\apple\documents\visual studio 2010\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+c:\users\apple\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+c:\users\apple\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.exe
+c:\users\apple\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.pdb
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\obj\x86\Debug\TcpServer.exe
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\obj\x86\Debug\TcpServer.pdb
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\Project\Project\TcpServer\TcpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anna\Downloads\TcpServer\TcpServer\obj\x86\Debug\TcpServer.exe
+C:\Users\Anna\Downloads\TcpServer\TcpServer\obj\x86\Debug\TcpServer.pdb
+C:\Users\Anna\Downloads\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Anna\Downloads\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Anna\Downloads\TcpServer\TcpServer\obj\x86\Debug\TcpServer.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Downloads\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+C:\Users\Anna\Downloads\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+C:\Users\Anna\Downloads\TcpServer\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\obj\x86\Debug\TcpServer.pdb
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\bin\Debug\TcpServer.exe
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\bin\Debug\TcpServer.pdb
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\obj\x86\Debug\TcpServer.csprojResolveAssemblyReference.cache
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+D:\1 sem\Dobble\TcpServer - Kopia\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\1 sem\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\1 sem\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.pdb
+D:\1 sem\Dobble\GameDobble\TcpServer\bin\Debug\TcpServer.exe
+D:\1 sem\Dobble\GameDobble\TcpServer\bin\Debug\TcpServer.pdb
+D:\1 sem\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.csprojResolveAssemblyReference.cache
+D:\1 sem\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+D:\1 sem\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+D:\1 sem\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.pdb
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\bin\Debug\TcpServer.exe
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\bin\Debug\TcpServer.pdb
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.csprojResolveAssemblyReference.cache
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+D:\Studia\Studia\Magisterskie\1 sem\systemy rozproszone\Dobble\GameDobble\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\bin\Debug\TcpServer.exe.config
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\obj\x86\Debug\TcpServer.pdb
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\bin\Debug\TcpServer.exe
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\bin\Debug\TcpServer.pdb
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\obj\x86\Debug\TcpServer.csprojResolveAssemblyReference.cache
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+D:\3 sem\BackUp\dziala_z_widokiem_na_serv\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\bin\Debug\TcpServer.exe.config
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\obj\x86\Debug\TcpServer.pdb
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\bin\Debug\TcpServer.exe
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\bin\Debug\TcpServer.pdb
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\obj\x86\Debug\TcpServer.csprojResolveAssemblyReference.cache
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\obj\x86\Debug\TcpServer.View.Form1.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+D:\3 sem\BackUp\170403_wczytujeobrazki\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\3 sem\GameDobble\TcpServer\bin\Debug\TcpServer.exe.config
+D:\3 sem\GameDobble\TcpServer\bin\Debug\TcpServer.exe
+D:\3 sem\GameDobble\TcpServer\bin\Debug\TcpServer.pdb
+D:\3 sem\GameDobble\TcpServer\bin\Debug\MetroFramework.dll
+D:\3 sem\GameDobble\TcpServer\bin\Debug\MetroFramework.Fonts.dll
+D:\3 sem\GameDobble\TcpServer\obj\x86\Debug\TcpServer.csprojResolveAssemblyReference.cache
+D:\3 sem\GameDobble\TcpServer\obj\x86\Debug\TcpServer.View.Server.resources
+D:\3 sem\GameDobble\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+D:\3 sem\GameDobble\TcpServer\obj\x86\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\3 sem\GameDobble\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\3 sem\GameDobble\TcpServer\obj\x86\Debug\TcpServer.pdb
